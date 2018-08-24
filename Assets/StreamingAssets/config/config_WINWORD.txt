@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE;
+-5.903846;
+-0.3173074;

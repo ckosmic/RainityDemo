@@ -1,0 +1,3 @@
+C:\Users\Christian\AppData\Roaming\Spotify\Spotify.exe;
+-7.586539;
+0.5096158;

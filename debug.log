@@ -1,0 +1,1 @@
+[0822/205234.678:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)

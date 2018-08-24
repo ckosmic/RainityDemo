@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe;
+-7.586538;
+2.086539;
